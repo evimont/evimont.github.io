@@ -1,83 +1,29 @@
 [[project]]
-title = "Flutter Cinemapedia App"
-category = "Mobile development"
-image = "https://i.imgur.com/ANDVQ4o.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "DialoGPT fine-tuned for french language"
+category = "Deep Learning"
+image = "./config/assets/projects/dialogpt.png"
+url = "https://github.com/emil2000dza/DialoGPT-fine-tuned-for-french-language"
 
 [[project]]
-title = "Flutter Coffee Shop App"
-category = "Mobile development"
-image = "https://imgur.com/2nNXhDN.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Restricted Boltzmann Machine for image generation"
+category = "Statistics"
+image = "./config/assets/projects/rbm.png"
+url = "https://github.com/emil2000dza/rbm-for-image-generation"
 
 [[project]]
-title = "Flutter Todo App"
-category = "Mobile development"
-image = "https://imgur.com/7110Lj1.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Protein Family dataset study"
+category = "Machine Learning"
+image = "./config/assets/projects/protein.jpg"
+url = "https://github.com/emil2000dza/pfam-database-study"
 
 [[project]]
-title = "Flutter Travel News App"
-category = "Mobile development"
-image = "https://imgur.com/t5T5Ixa.png"
-url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
+title = "VGG-16 fine-tuned for real time emotion detection"
+category = "Computer Vision"
+image = "./config/assets/projects/emotion.png"
+url = "https://github.com/emil2000dza/emotion-detection"
 
 [[project]]
-title = "Codigo Facilito Downloader"
-category = "Python Scripting"
-image = "https://imgur.com/kyHrBGk.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[[project]]
-title = "Finance"
-category = "Web development"
-image = "./config/assets/projects/project-1.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
-
-[[project]]
-title = "Orizon"
-category = "Web development"
-image = "./config/assets/projects/project-2.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
-
-[[project]]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
-
-[[project]]
-title = "Brawlhalla"
-category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
-
-[[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
-
-[[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Study of handwritten signatures"
+category = "Statistical learning"
+image = "./config/assets/projects/signature.png"
+url = "https://github.com/emil2000dza/projets-apprentissage-statistique"

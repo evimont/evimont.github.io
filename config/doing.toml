@@ -1,19 +1,19 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+title = "Data Science"
+icon = "./config/assets/icons/ai.svg"
+text = "Modeling complex business processes using data science or more traditional statistic methods."
 
 [[doing]]
-title = "Scripting"
+title = "Machine Learning"
 icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using Python to enhance efficiency and productivity."
+text = "Implementing predictive models or simpler approaches to answzr concrete problems."
 
 [[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+title = "Backend Engineering"
+icon = "./config/assets/icons/database.svg"
+text = "Building backend of platforms to power approaches developed."
 
 [[doing]]
-title = "Web Development"
-icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+title = "Data Analysis"
+icon = "./config/assets/icons/monitoring.svg"
+text = "Analyzing different volumes of data to provide meaningful insights from structured or unstructured data."

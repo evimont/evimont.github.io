@@ -1,46 +1,55 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "Victor Grignard Highschool"
+timeline = "2017 — 2019"
+description = "Highly intensive classes in advance mathematics and physics preparing for the competitive entrance examinations to the French ‘Grandes Écoles’"
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-
-[[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
+title = "Telecom SudParis"
+timeline = "2019 — 2022"
+description = "Classes included : Statistical Learning, Deep Learning, Computer Vision, NLP, Optimization, Reinforcement Learning, Perception for autonomous systems, System Networks, Decision-Making Processes."
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Software Engineer Intern"
+timeline = "Summer 2020"
+description = "-	Implementation of a chatbot scenario using the object-oriented Rasa library on Python,
+-	Integration of a call functionality for a chatbot using the company’s API.
+"
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Research Assistant in NLP (Large Language Models)"
+timeline = "Summer 2021"
+description = "-	Fine-Tuning of the DialoGPT (GPT-2) conversational agent for the french language,
+-	Scrapping and parsing data to create a safe french utterances dataset,
+-	Presentation to a seminar and deployment of the final model  using Docker and Hugging Face.
+"
 
 [[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "Data Scientist Assistant, Ubisoft, Saint-Mandé, France"
+timeline = "04/2022 - 10/2022"
+description = " Semi-automate the data drift detection of a profiling tool developed by former Research Scientists of the team to match the needs of the Market Strategy teams using unsupervised and semi-supervised methods ,
+-	Profiling the video game market based on user behavior detected on Reddit involving in-depth study of word/sentence-embeddings,
+-	Review of a prototype mapping of the video game world to unify the company's global market vision.
+"
 
+[[experience]]
+title = "Data Scientist Consultant, Sia Partners, Paris, Francece"
+timeline = "11/2022 - Now"
+description = "- Machine Learning Engineer for a host assistant and a search engine for public sector,
+- Machine Learning Engineer for a major french publishing house,
+- Data Scientist for a CAC-40 utilities company,
+- Involvement in the R&D team dedicated to NLP : collaboration, training or supervision of other consultants on projects related to research and development and the use of LLMs for use cases encountered on assignment."
 
 ############## Skills config ####################
 #################################################
 [skills] 
 title = "My Skills"
-enabled = true
-show_bar = true
-show_value = true
+enabled = false
+show_bar = false
+show_value = false
 
 [[skill]]
 title = "Web design"
@@ -63,13 +72,17 @@ value = "50%"
 [languages]
 title = "Languages"
 enabled = true
-show_bar = true
-show_value = true
+show_bar = false
+show_value = false
 
 [[language]]
-title = "Ingles"
+title = "English"
 value = "60%"
 
 [[language]]
 title = "French"
+value = "50%"
+
+[[language]]
+title = "German"
 value = "50%"

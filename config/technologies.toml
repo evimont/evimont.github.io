@@ -1,22 +1,19 @@
 ############### Section config ##################
 #################################################
-title = "Tech Experience"
+title = "Tech Stack"
 enabled = true # false
 
 ############### Technologies ####################
 #################################################
-# Technology I have worked with
+# General technology I have worked with
 # name = "./.../../icon_path"
 [technologies]
 python = "./config/assets/icons/python.svg"
-flutter = "./config/assets/icons/flutter.svg"
+SQL = "./config/assets/icons/flutter.svg"
 git = "./config/assets/icons/git.svg"
-figma = "./config/assets/icons/figma.svg"
-firebase = "./config/assets/icons/firebase.svg"
-pandas = "./config/assets/icons/pandas.svg"
-mongodb = "./config/assets/icons/mongodb.svg"
-dart = "./config/assets/icons/dart.svg"
-html = "./config/assets/icons/html.svg"
-ai = "./config/assets/icons/ai.svg"
-jupyter = "./config/assets/icons/jupyter.svg"
+docker = "./config/assets/icons/docker.svg"
+elastic = "./config/assets/icons/elastic.svg"
+aws = "./config/assets/icons/aws.svg"
+gcp = "./config/assets/icons/gcp.svg"
+dataiku = "./config/assets/icons/dataiku.svg"
 linux = "./config/assets/icons/linux.svg"
