@@ -13,35 +13,24 @@ description = "Classes included : Statistical Learning, Deep Learning, Computer 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Software Engineer Intern"
+title = "Software Engineer Intern, MomentTechn, Caen, France"
 timeline = "Summer 2020"
-description = "-	Implementation of a chatbot scenario using the object-oriented Rasa library on Python,
--	Integration of a call functionality for a chatbot using the company’s API.
-"
+description = "Implementation of a chatbot scenario using the object-oriented Rasa library on Python and ntegration of a phone call functionality for a chatbot using the company’s API."
 
 [[experience]]
-title = "Research Assistant in NLP (Large Language Models)"
+title = "Research Assistant in NLP (Large Language Models), Lulea Tekniska Universitet, Lulea, Sweden"
 timeline = "Summer 2021"
-description = "-	Fine-Tuning of the DialoGPT (GPT-2) conversational agent for the french language,
--	Scrapping and parsing data to create a safe french utterances dataset,
--	Presentation to a seminar and deployment of the final model  using Docker and Hugging Face.
-"
+description = "Fine-Tuning of the DialoGPT (GPT-2) conversational agent for the french language involving scrapping and parsing data to create a safe french utterances dataset and presentation to a seminar."
 
 [[experience]]
 title = "Data Scientist Assistant, Ubisoft, Saint-Mandé, France"
 timeline = "04/2022 - 10/2022"
-description = " Semi-automate the data drift detection of a profiling tool developed by former Research Scientists of the team to match the needs of the Market Strategy teams using unsupervised and semi-supervised methods ,
--	Profiling the video game market based on user behavior detected on Reddit involving in-depth study of word/sentence-embeddings,
--	Review of a prototype mapping of the video game world to unify the company's global market vision.
-"
+description = "Semi-automate the data drift detection of a profiling tool developed by former Research Scientists of the team to match the needs of the Market Strategy teams using unsupervised and semi-supervised methods. Profile the video game market based on user behavior detected on Reddit involving in-depth study of word/sentence-embeddings."
 
 [[experience]]
 title = "Data Scientist Consultant, Sia Partners, Paris, Francece"
 timeline = "11/2022 - Now"
-description = "- Machine Learning Engineer for a host assistant and a search engine for public sector,
-- Machine Learning Engineer for a major french publishing house,
-- Data Scientist for a CAC-40 utilities company,
-- Involvement in the R&D team dedicated to NLP : collaboration, training or supervision of other consultants on projects related to research and development and the use of LLMs for use cases encountered on assignment."
+description = "Various missions involving framing and modeling business processes or/and deploying machine learning models in companies from different sectors (utilities,government,publishing house). Train, implement and supervise R&D projects to incorporate LLMs into the solving of common use-cases encountered in assignments."
 
 ############## Skills config ####################
 #################################################
