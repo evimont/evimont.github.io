@@ -9,7 +9,7 @@ enabled = true # false
 # name = "./.../../icon_path"
 [technologies]
 python = "./config/assets/icons/python.svg"
-SQL = "./config/assets/icons/flutter.svg"
+SQL = "./config/assets/icons/postgre.svg"
 git = "./config/assets/icons/git.svg"
 docker = "./config/assets/icons/docker.svg"
 elastic = "./config/assets/icons/elastic.svg"
